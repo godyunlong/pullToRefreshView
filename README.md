@@ -1,1 +1,2 @@
-# pullToRefreshView
+该项目主用于刷新和加载更多，如有建议或者bug请联系作者邮箱kxmh_sh@yeah.net
+先适配scrollerView 和recyclerView
